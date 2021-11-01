@@ -11,7 +11,7 @@ To make it easy, the reading doc is easy to understand.
 
 ## backend knowledge
 
-###storage in hawq&oushudb
+### storage in hawq&oushudb
 
 [storage in hawq](https://www.136.la/jingpin/show-56314.html)
 
